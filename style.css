@@ -1,0 +1,15 @@
+
+
+body { font-family: sans-serif; padding: 20px; background: #f7f7f7; }
+
+
+.quiz-container { background: white; padding: 20px; border-radius: 10px; max-width: 700px; margin: auto; }
+
+
+.question { margin-bottom: 20px; }
+
+    
+button { padding: 10px 20px; font-size: 16px; }
+    
+   
+#result { margin-top: 30px; font-size: 18px; font-weight: bold; }
